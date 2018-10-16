@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "chats": [
+    {
+        id: 1,
+        avatar: "matt",
+        name: "Matt",
+        message: "You can clear form values on submit.",
+        time: "5:42 PM"
+      },
+      {
+        id: 2,
+        avatar: "joe",
+        name: "Joe",
+        message: "You can capture form data on change or on submit.",
+        time: "5:02 PM"
+      },
+      {
+        id: 3,
+        avatar: "jenny",
+        name: "Jenny",
+        message: "Joe you are always so right :)",
+        time: "4:32 PM"
+      }
+  ]
 }
