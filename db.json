@@ -1,25 +1,25 @@
 {
   "chats": [
     {
-        id: 1,
-        avatar: "matt",
-        name: "Matt",
-        message: "You can clear form values on submit.",
-        time: "5:42 PM"
+        "id": 1,
+        "avatar": "matt",
+        "name": "Matt",
+        "message": "You can clear form values on submit.",
+        "time": "5:42 PM"
       },
-      {
-        id: 2,
-        avatar: "joe",
-        name: "Joe",
-        message: "You can capture form data on change or on submit.",
-        time: "5:02 PM"
+    {
+        "id": 2,
+        "avatar": "matt",
+        "name": "Matt",
+        "message": "You can clear form values on submit.",
+        "time": "5:42 PM"
       },
-      {
-        id: 3,
-        avatar: "jenny",
-        name: "Jenny",
-        message: "Joe you are always so right :)",
-        time: "4:32 PM"
-      }
+    {
+        "id": 3,
+        "avatar": "matt",
+        "name": "Matt",
+        "message": "You can clear form values on submit.",
+        "time": "5:42 PM"
+      },
   ]
 }
